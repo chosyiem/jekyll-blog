@@ -4,7 +4,7 @@ title: My first post
 decription: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Greg
 categories: [travel, bali]
-featured_image: https://unsplash.com/photos/xG8IQMqMITM
+featured_image: /images/blog-meeting.jpg
 ---
 
 
