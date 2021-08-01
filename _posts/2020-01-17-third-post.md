@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: post-layout
 title: My third post
+decription: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+author: Tracy
 categories: [selfcare, bali]
+featured_image: https://source.unsplash.com/random
 ---
 
 

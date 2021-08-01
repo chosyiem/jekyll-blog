@@ -13,3 +13,31 @@ section {
 }
 
 .padded-1 {padding: 1rem;}
+
+.intro {
+    text-transform: uppercase;
+    background-color: bisque;
+}
+
+.tag {
+    border: 1px solid;
+    padding: 0.1rem;
+    display: inline-block;
+}
+
+/* Background image styles */
+
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+}
+
+.square {
+    padding: 100%;
+
+}
+
+.landscape {
+    padding: 60%;
+}
