@@ -1,7 +1,7 @@
 ---
 layout: post-layout
 title: My third post
-decription: Lorem ipsum dolor sit amet consectetur adipisicing elit
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit
 author: Tracy
 categories: [selfcare, bali]
 featured_image: /images/blog-plant.jpg

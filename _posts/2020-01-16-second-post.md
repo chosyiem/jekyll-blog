@@ -1,7 +1,7 @@
 ---
 layout: post-layout
 title: My second post
-decription: Lorem ipsum dolor sit amet consectetur adipisicing elit
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit
 author: Mandy
 categories: [travel, Australia]
 featured_image: /images/blog-plant-2.jpg
